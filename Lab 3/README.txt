@@ -1,8 +1,7 @@
 Lab 3: The Basics of Figma
 
-  In this lab we were taught the basics of Figma and asked to recreate a website application of our choice. 
-Since this lab is a recreation and not actually my own work I work be posting it here but I have cited the
-sources I used.
+  In this lab we were taught the basics of Figma and asked to recreate a website application of our 
+choice. Since this lab is a recreation and not actually my own work I work be posting it here but I have cited the sources I used.
 
 Works Cited:
 
