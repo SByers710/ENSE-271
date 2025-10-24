@@ -2,6 +2,6 @@ In this lab we were taught the basics of Figma and asked to recreate a website a
 
 Works Cited:
 
-Figma. “The Collaborative Interface Design Tool.” Figma, www.figma.com/. Accessed 24 Oct. 2025.
+Figma. “The Collaborative Interface Design Tool.” Figma, https://www.figma.com/. Accessed 24 Oct. 2025.
 
-Ramos. “Ramos - Website Design for Digital Business Analytic Platform by Outcrowd on Dribbble.” Dribble, dribbble.com/shots/23402072-Ramos-Website-design-for-digital-business-analytic-platform. Accessed 24 Oct. 2025. 
+Ramos. “Ramos - Website Design for Digital Business Analytic Platform by Outcrowd on Dribbble.” Dribble, https://dribbble.com/shots/23402072-Ramos-Website-design-for-digital-business-analytic-platform. Accessed 24 Oct. 2025. 
