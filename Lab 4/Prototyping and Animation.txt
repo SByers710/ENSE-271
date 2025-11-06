@@ -1,2 +1,11 @@
 Lab 4: Prototyping and Animation
-  In this lab the aim was to create a working prototype in Figma with functions like being able be directed to pages using the menu and selecting the next photo in a slideshow. We were provided a template which we had to customize to promote a desination of our choice regardless on whether it was real or fictional. I almost chose a fictional world from literature but I realized that it would be difficult to obtain enough photos and decided to instead model Moose Jaw the city I grew up in due to it's familarity and rich history.
+  In this lab the aim was to create a working prototype in Figma with functions like being able be 
+directed to pages using the menu and selecting the next photo in a slideshow. We were provided a 
+template which we had to customize to promote a desination of our choice regardless on whether it was 
+real or fictional. I almost chose a fictional world from literature but I realized that it would be 
+difficult to obtain enough photos and decided to instead model Moose Jaw the city I grew up in due 
+to it's familarity and rich history.
+
+Works cited:
+
+Figma. “The Collaborative Interface Design Tool.” Figma, https://www.figma.com/. Accessed 24 Oct. 2025.
