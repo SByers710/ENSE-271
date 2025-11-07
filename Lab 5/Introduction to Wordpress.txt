@@ -1,1 +1,15 @@
+Lab 5: Introduction to Wordpress
+  In this lab the objective was to set up Wordpress and go over the basics of working with it. Then hand in a lab with two parts. Part 1 was to make a persona and this was to encourage us tot think about we are are designing for. The second part was to make a site based on the persona made with a home page, three blog posts, and three static pages. I have an example of the hirarchy taken from the document for this lab and it consists of the following:
 
+- Home page
+  - Static page 1
+  - Static page 2
+  - Static page 3
+  - Blog page
+    - Blog post 1
+    - Blog post 2
+    - Blog post 3
+
+Works Cited:
+
+Mullenweg, Matt, and Mike Little. “Wordpress, Your Way.” WordPress.Com, 7 May 2003, wordpress.com/. 
